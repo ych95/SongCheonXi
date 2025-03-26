@@ -1,6 +1,7 @@
 # 방문자 관리 앱
 
-[로그인 페이지]("https://i.ibb.co/My3MCsqp/01-login.png")
+## 로그인 페이지
+<img src="https://i.ibb.co/My3MCsqp/01-login.png" alt="01-login" border="0">
 
 앱 주요 기능
 1. 방문 차량 예약
