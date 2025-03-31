@@ -1,6 +1,10 @@
 # 방문자 관리 앱
 
-## 앱
+##
+입주민들의 편리한 주차 환경을 제공하고, 외부 차량의 주차를 효율적으로 관리하기 위해 방문자 관리 앱을 도입하였습니다.<br>
+앱을 통해 방문 차량의 예약 및 확인을 손쉽게 하실 수 있습니다.
+
+## 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.ibb.co/p6SGpCZd/00-Release-Page.png" alt="00-Release-Page" border="0">
   <img src="https://i.ibb.co/CsBqL2Hm/00-1-Release-Page-Android.png" alt="00-1-Release-Page-Android" border="0">
@@ -23,7 +27,7 @@
 <img src="https://i.ibb.co/6cnj3mBH/11-my-information.png" alt="11-my-information" border="0">
 </div>
 
-앱 주요 기능
+## 앱 주요 기능 안내
 1. 방문 차량 예약
 - 방문 예정일, 차량 번호, 방문 목적 등을 입력하여 예약.
 2. 예약 내역 조회
@@ -32,3 +36,5 @@
 - 예약 후 방문한 차량의 기록을 확인.
 4. Q&A
 - 방문 차량 예약 방법, 예약 내역 확인 방법, 방문 기록 확인 방법, 탈퇴 방법 등.
+5. 내 정보
+- 하루 최대 예약 횟수, 당일 방문 예정 차량 대수, 월간 최대 예약 횟수, 최대 연속 주차 일수 확인
