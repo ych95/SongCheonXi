@@ -3,7 +3,7 @@
 ## 로그인 페이지
 <img src="https://i.ibb.co/kVYWxXx3/01-login-2.png" alt="01-login-2" border="0">
 
-<img src="https://i.ibb.co/Dft54QDN/00-Release-Page.png" alt="00-Release-Page" border="0">
+<img src="https://i.ibb.co/p6SGpCZd/00-Release-Page.png" alt="00-Release-Page" border="0">
 <img src="https://i.ibb.co/bMx6x2sP/00-1-Release-Page-Android.png" alt="00-1-Release-Page-Android" border="0">
 <img src="https://i.ibb.co/KpZgpMbc/00-2-Release-Page-i-OS.png" alt="00-2-Release-Page-i-OS" border="0">
 <img src="https://i.ibb.co/kVYWxXx3/01-login-2.png" alt="01-login-2" border="0">
