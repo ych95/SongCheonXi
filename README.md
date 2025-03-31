@@ -19,8 +19,6 @@
 <img src="https://i.ibb.co/MD033GN0/07-1-popup.png" alt="07-1-popup" border="0">
 <img src="https://i.ibb.co/ds9MDwJV/08-usage-history.png" alt="08-usage-history" border="0">
 <img src="https://i.ibb.co/ksXhbHHs/09-user-account-management.png" alt="09-user-account-management" border="0">
-</div>
-<div style="display: flex; justify-content: space-between;">
 <img src="https://i.ibb.co/0HX9RWx/10-qa.png" alt="10-qa" border="0">
 <img src="https://i.ibb.co/6cnj3mBH/11-my-information.png" alt="11-my-information" border="0">
 </div>  
