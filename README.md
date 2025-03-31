@@ -23,8 +23,8 @@
 ## 앱 주요 화면
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.ibb.co/p6SGpCZd/00-Release-Page.png" alt="00-Release-Page" border="0">
-  <img src="https://i.ibb.co/CsBqL2Hm/00-1-Release-Page-Android.png" alt="00-1-Release-Page-Android" border="0">
-  <img src="https://i.ibb.co/svk6hPSn/00-2-Release-Page-i-OS.png" alt="00-2-Release-Page-i-OS" border="0">
+  <img src="https://i.ibb.co/cc28QSpD/00-1-Release-Page-Android.png" alt="00-1-Release-Page-Android" border="0">
+  <img src="https://i.ibb.co/nMbg75Mw/00-2-Release-Page-i-OS.png" alt="00-2-Release-Page-i-OS" border="0">
 </div>
 <div style="display: flex; justify-content: space-between;">
 <img src="https://i.ibb.co/JWgpm7qF/01-login.png" alt="01-login" border="0">
