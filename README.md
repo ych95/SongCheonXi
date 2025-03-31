@@ -1,7 +1,8 @@
 # 방문자 관리 앱
 
-## 로그인 페이지
+## 앱
 <div style="display: flex; justify-content: space-between;">
+  <img src="https://i.ibb.co/2YLBs475/ChromeQR.png" alt="ChromeQR" border="0">
   <img src="https://i.ibb.co/p6SGpCZd/00-Release-Page.png" alt="00-Release-Page" border="0">
   <img src="https://i.ibb.co/CsBqL2Hm/00-1-Release-Page-Android.png" alt="00-1-Release-Page-Android" border="0">
   <img src="https://i.ibb.co/svk6hPSn/00-2-Release-Page-i-OS.png" alt="00-2-Release-Page-i-OS" border="0">
@@ -21,7 +22,8 @@
 <img src="https://i.ibb.co/ksXhbHHs/09-user-account-management.png" alt="09-user-account-management" border="0">
 <img src="https://i.ibb.co/0HX9RWx/10-qa.png" alt="10-qa" border="0">
 <img src="https://i.ibb.co/6cnj3mBH/11-my-information.png" alt="11-my-information" border="0">
-</div>  
+</div>
+
 앱 주요 기능
 1. 방문 차량 예약
 - 방문 예정일, 차량 번호, 방문 목적 등을 입력하여 예약.
