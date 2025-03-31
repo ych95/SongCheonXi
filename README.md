@@ -2,7 +2,6 @@
 
 ## 앱
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://i.ibb.co/2YLBs475/ChromeQR.png" alt="ChromeQR" border="0">
   <img src="https://i.ibb.co/p6SGpCZd/00-Release-Page.png" alt="00-Release-Page" border="0">
   <img src="https://i.ibb.co/CsBqL2Hm/00-1-Release-Page-Android.png" alt="00-1-Release-Page-Android" border="0">
   <img src="https://i.ibb.co/svk6hPSn/00-2-Release-Page-i-OS.png" alt="00-2-Release-Page-i-OS" border="0">
