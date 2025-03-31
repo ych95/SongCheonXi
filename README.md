@@ -21,8 +21,6 @@
 </div>  
 <div style="display: flex; justify-content: space-between;">
 <img src="https://i.ibb.co/VyszGS4/07-visit-reservation-list.png" alt="07-visit-reservation-list" border="0">
-</div>  
-<div style="display: flex; justify-content: space-between;">
 <img src="https://i.ibb.co/MD033GN0/07-1-popup.png" alt="07-1-popup" border="0">
 </div>
 <div style="display: flex; justify-content: space-between;">
@@ -33,8 +31,6 @@
 </div>  
 <div style="display: flex; justify-content: space-between;">
 <img src="https://i.ibb.co/0HX9RWx/10-qa.png" alt="10-qa" border="0">
-</div>  
-<div style="display: flex; justify-content: space-between;"> 
 <img src="https://i.ibb.co/6cnj3mBH/11-my-information.png" alt="11-my-information" border="0">
 </div>  
 앱 주요 기능
