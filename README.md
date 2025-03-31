@@ -23,7 +23,7 @@
 ## 4. 앱 주요 화면
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.ibb.co/p6SGpCZd/00-Release-Page.png" alt="00-Release-Page" border="0">
-  <img src="https://i.ibb.co/1f56FNgg/00-1-Release-Page-Android.png" alt="00-1-Release-Page-Android" border="0">
+  <img src="https://i.ibb.co/nMq2VpjX/00-1-Release-Page-Android.png" alt="00-1-Release-Page-Android" border="0">
   <img src="https://i.ibb.co/GQ9B3h0b/00-2-Release-Page-i-OS.png" alt="00-2-Release-Page-i-OS" border="0">
 </div>
 <div style="display: flex; justify-content: space-between;">
