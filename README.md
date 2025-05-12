@@ -1,7 +1,7 @@
-# 송천 자이 아파트 방문자 관리 앱
+# 송천 자이 아파트 방문자 관리 웹앱
 
-## 1. 앱 개발 배경
-송천 자이 아파트 내 입주민들의 편리한 주차 환경을 제공하고,<br> 외부 차량의 주차를 효율적으로 관리하기 위해<br> **방문자 관리 앱**을 개발하였습니다.<br>
+## 1. 웹앱 개발 배경
+송천 자이 아파트 내 입주민들의 편리한 주차 환경을 제공하고,<br> 외부 차량의 주차를 효율적으로 관리하기 위해<br> **방문자 관리 웹앱**을 개발하였습니다.<br>
 기존의 수동적인 주차 관리 방법에서 벗어나 **자동화된 예약 시스템**을 도입하여,<br> 방문 차량의 관리와 예약을 실시간으로 확인할 수 있게 했습니다.
 
 ## 2. 사용 기술 스택
@@ -20,7 +20,7 @@
 5. 내 정보
 - 하루 최대 예약 횟수, 당일 방문 예정 차량 대수, 월간 최대 예약 횟수, 최대 연속 주차 일수 확인
   
-## 4. 앱 주요 화면
+## 4. 웹앱 주요 화면
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.ibb.co/p6SGpCZd/00-Release-Page.png" alt="00-Release-Page" border="0">
   <img src="https://i.ibb.co/nMq2VpjX/00-1-Release-Page-Android.png" alt="00-1-Release-Page-Android" border="0">
