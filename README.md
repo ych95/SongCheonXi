@@ -1,5 +1,5 @@
 # 송천 자이 아파트 방문자 관리 웹앱
-<img src="https://i.ibb.co/W48RXRp9/image.jpg" alt="image" style="width: 100%; display: block;">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/W48RXRp9/image.jpg" alt="image" border="0"></a>
 
 ## 1. 웹앱 개발 배경
 송천 자이 아파트 내 입주민들의 편리한 주차 환경을 제공하고,<br> 외부 차량의 주차를 효율적으로 관리하기 위해<br> **방문자 관리 웹앱**을 개발하였습니다.<br>
